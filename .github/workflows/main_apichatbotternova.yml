@@ -50,4 +50,4 @@ jobs:
           app-name: 'apichatbotternova'
           slot-name: 'Production'
           package: '*.war'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_268FFBB28DF241D49ECA9E3326007A8F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D9C303C8491241F3AD56EECE8FBE0953 }}
